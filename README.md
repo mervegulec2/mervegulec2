@@ -1,3 +1,4 @@
 ## Hi there 👋
 ### :school_satchel: I am studying at Bilkent University
-### 🔭 I am learning Java
+### :computer: I am currently working on programming
+### I love :dog: :guitar: :coffee:
